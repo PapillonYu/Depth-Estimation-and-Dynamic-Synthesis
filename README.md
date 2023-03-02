@@ -1,5 +1,5 @@
 # Depth-Estimation-and-Dynamic-Synthesis
-论文《单帧非自然图像深度估计与动态合成》相关动态效果展示
+论文《单帧非自然图像深度估计与动态合成》相关动态效果展示（图片较大，加载请稍等）
 
 #### 山水画测试集动态展示
 ![02](https://raw.githubusercontent.com/PapillonYu/Depth-Estimation-and-Dynamic-Synthesis/main/%E5%9B%BE%E5%83%8F%E6%96%87%E4%BB%B6/%E5%B1%B1%E6%B0%B4%E7%94%BB%E6%B5%8B%E8%AF%95%E9%9B%86%E7%A4%BA%E4%BE%8B/02.gif)
